@@ -1,4 +1,4 @@
-package com.example.moviesapi;
+package com.example.moviesapi.Entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
